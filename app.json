@@ -1,0 +1,32 @@
+{
+  "expo": {
+    "name": "hospitalncft",
+    "slug": "hospitalncft",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "backgroundColor": "#ffffff"
+      }
+    },
+    "web": {
+    },
+    "extra": {
+      "eas": {
+        "projectId": "56c9d613-9203-40a4-8f25-a8f2076c78db"
+      }
+    },
+    "owner": "threesix3"
+  }
+}
